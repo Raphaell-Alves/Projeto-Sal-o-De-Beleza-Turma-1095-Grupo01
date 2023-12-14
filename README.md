@@ -1,4 +1,4 @@
-<h1 color='green'> ADA TECH - VEM SER TECH - PROJETO 2 - GRUPO 5</h1>
+<h1 color='green'> ADA TECH - VEM SER TECH - PROJETO 2 - GRUPO 1</h1>
 
 ## Projeto 2 - Um sistema de salão de beleza para corte de cabelo.
 - Tudo em JavaScript, sem interface e com prompt.
