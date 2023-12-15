@@ -18,3 +18,5 @@ tem a capacidade para entregar o proposto. Se não, solicite ajuda.
 ## Membros
 - <a href='https://github.com/Raphaell-Alves'>Raphael Moura</a>
 - <a href='https://github.com/LucasDev9645'>Lucas Freitas</a>
+- <a href='https://github.com/dalanmarinho'>Dalan Marinho</a>
+- <a href='https://github.com/Rvssa'>Larissa Vasconcelos</a>
